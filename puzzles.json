@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "The Red Door",
+    "title_zh": "红色的门",
+    "difficulty": "Easy",
+    "surface": "Every evening, an old woman painted her front door red. Whenever someone knocked, she opened it and invited them in for dinner, even strangers. Why?",
+    "surface_zh": "每天傍晚，一位老奶奶都把自家的大门漆成红色。有人敲门，她就开门请对方进来吃晚饭，哪怕是陌生人。为什么？",
+    "bottom": "Years ago the old woman's son left home and never returned. Red was his favorite color. She never gave up hope that he would come back one day, so she painted her door red every evening, hoping he would recognize the house. She invited every visitor to dinner because she wanted to treat strangers the way she hoped someone, somewhere, was treating her son.",
+    "bottom_zh": "多年前，老奶奶的儿子离家后再也没有回来。红色是他最喜欢的颜色。她一直没有放弃希望，每天傍晚都把门漆成红色，盼着儿子有一天能认出这个家。她请每一位访客吃饭，是因为希望在远方的某个地方，也有人这样善待她的儿子。",
+    "key_points": [
+      "Her son left years ago and has not come back",
+      "Red was her son's favorite color, so the red door is meant for him",
+      "She still hopes he will return and recognize the house",
+      "She welcomes strangers the way she hopes her son is being welcomed"
+    ],
+    "facts": [
+      "The son is alive as far as she knows; she does not believe he is dead",
+      "Nobody forced her to do this; she does it by choice",
+      "The strangers are not dangerous and she is not afraid of them",
+      "The son has not come back yet",
+      "The old woman is lonely but kind"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Library Book",
+    "title_zh": "图书馆的书",
+    "difficulty": "Medium",
+    "surface": "A man returned a library book twenty years late. The librarian did not charge him a fine and thanked him warmly. Why?",
+    "surface_zh": "一个男人把一本图书馆的书逾期二十年才归还。图书管理员没有罚款，还热情地向他道谢。为什么？",
+    "bottom": "The book was the last copy of a rare local-history volume that the library had lost long ago and had been searching for ever since. The man found it while clearing his late father's study, realized it had never been returned, and brought it back. The library had been trying to rebuild its local collection, so the librarian was grateful to get the book back.",
+    "bottom_zh": "这是一本珍贵的地方史，图书馆早年遗失后一直在寻找，它是最后一本。男人在整理已故父亲的书房时发现了它，意识到当年没有归还，便把书送了回来。图书馆一直想重建本地馆藏，所以管理员非常感激。",
+    "key_points": [
+      "The book was rare and the library had lost it",
+      "The man found it among his father's belongings",
+      "The library was glad to have it back"
+    ],
+    "facts": [
+      "The man did not steal the book on purpose",
+      "His father had borrowed it about twenty years ago and forgotten to return it",
+      "The librarian was not angry at all",
+      "The book is valuable to the library"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Footsteps at Five",
+    "title_zh": "五点的脚步声",
+    "difficulty": "Easy",
+    "surface": "Every morning at five, a man is woken by footsteps running above his head, yet he never complains. One morning the footsteps stop, and he hurries upstairs to knock on the door. Why?",
+    "surface_zh": "每天早上五点，一个男人都会被楼上的跑步声吵醒，却从不抱怨。有一天早晨，脚步声没有响起，他急匆匆地上楼敲门。为什么？",
+    "bottom": "A young man living alone upstairs goes jogging every day at five. The old man has no family nearby and had come to treat those footsteps as a sign that his neighbor was safe and a new day had begun. That morning the footsteps did not come. Worried, he went upstairs and knocked, but got no answer, so he called the building manager to open the door. They found the young man collapsed with a high fever and got him to the hospital in time.",
+    "bottom_zh": "楼上住着一个独居的年轻人，每天五点晨跑。老人身边没有家人，早已把这阵脚步声当作邻居平安、新的一天开始的信号。那天脚步声没有出现，他担心出事，上楼敲门没人应，便请物业开了门，发现年轻人发高烧晕倒在屋里，及时被送去了医院。",
+    "key_points": [
+      "The young neighbor jogs at five every day and the old man treats the footsteps as a sign of safety",
+      "The old man lives alone and finds comfort in the sound",
+      "When the footsteps stop, he worries something happened",
+      "He goes upstairs, finds the neighbor ill, and saves him"
+    ],
+    "facts": [
+      "The two are just neighbors, not relatives",
+      "The old man was never truly bothered by the noise",
+      "The young man was sick; he was not attacked by anyone",
+      "The young man recovered and was never in life-threatening danger"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "One Extra Person",
+    "title_zh": "多出来的一个人",
+    "difficulty": "Hard",
+    "surface": "A family of three takes a trip to the beach, and the mother snaps a group photo. When the photo is developed, there is one extra person in it, yet she lets out a long sigh of relief. Why?",
+    "surface_zh": "一家三口去海边旅行，妈妈拍了一张合照。照片洗出来后，里面多了一个人，她却长长地松了一口气。为什么？",
+    "bottom": "Their seven-year-old daughter had kept talking about an invisible friend, chatting to thin air every day. The mother worried about her mental health and even considered taking her to a doctor. The extra person in the photo is a little girl of the same age, smiling next to the daughter. She is a neighbor's child from the same guesthouse who had been secretly playing with the daughter, unnoticed by the adults. This proved the friend was real and not imaginary, and the mother finally relaxed.",
+    "bottom_zh": "七岁的女儿一直说自己有个看不见的朋友，天天对着空气说话。妈妈担心孩子心理出了问题，甚至想带她去看医生。照片里多出来的是一个同龄的小女孩，笑着站在女儿身旁，是同住一家民宿的邻居孩子，一直偷偷找女儿玩，大人从没留意。这说明朋友是真实存在的，妈妈终于放下心来。",
+    "key_points": [
+      "The daughter kept talking about an invisible friend",
+      "The mother worried about her daughter's mental state",
+      "The extra person in the photo is a real little girl (a neighbor's child)",
+      "The friend is real, not imaginary, so the mother is relieved"
+    ],
+    "facts": [
+      "The extra person is a living person, not a ghost and not an adult stranger",
+      "She is a little girl about the same age as the daughter",
+      "The mother did not know this child and had never seen her before",
+      "The photo was not edited or faked",
+      "The mother is relieved because her worry is resolved, not because she found danger"
+    ]
+  }
+]
