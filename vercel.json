@@ -1,21 +1,12 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "server.py",
-      "use": "@vercel/python",
-      "config": { "includeFiles": ["puzzles.json"] }
+  "experimentalServices": {
+    "frontend": {
+      "entrypoint": "frontend",
+      "routePrefix": "/"
     },
-    {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "dist" }
+    "backend": {
+      "entrypoint": "server.py",
+      "routePrefix": "/api"
     }
-  ],
-  "routes": [
-    { "src": "/api/(.*)", "dest": "server.py" },
-    { "src": "/assets/(.*)", "dest": "frontend/assets/$1" },
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "frontend/index.html" }
-  ]
+  }
 }
